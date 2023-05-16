@@ -1,7 +1,7 @@
-# mac-plugin
+### mac-plugin
 
-
-### https://raw.githubusercontent.com/karimSATPRO/mac-plugin/main/installer.sh
-
+```
+ https://raw.githubusercontent.com/karimSATPRO/mac-plugin/main/installer.sh
+```
 
 
