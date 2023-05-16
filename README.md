@@ -1,7 +1,7 @@
 ### mac-plugin
 
 ```
- https://raw.githubusercontent.com/karimSATPRO/mac-plugin/main/installer.sh
+ wget https://raw.githubusercontent.com/karimSATPRO/mac-plugin/main/installer.sh -O - | /bin/sh
 ```
 
 
