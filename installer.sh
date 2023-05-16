@@ -1,8 +1,8 @@
 #!/bin/sh
 echo "##############################################"
-echo "############ KEYADDER[Bissfeed] ##############"
+echo "############ mac-plugin_v1.0[ByZIKO] ##############"
 echo "##############################################"
-wget -O /tmp/enigma2-plugin-extensions-keyadder_v1.0_all.ipk "https://github.com/ismail9875/keys/blob/main/enigma2-plugin-extensions-keyadder_v1.0_all.ipk?raw=true"
+wget -O /tmp/enigma2-plugin-extensions-mac-plugin_v1.0_all.ipk "https://github.com/karimSATPRO/mac-plugin/raw/main/enigma2-plugin-extensions-mac-plugin_v1.0_all.ipk"
 opkg install  --force-overwrite /tmp/*.ipk
 echo ""
 cd ..
